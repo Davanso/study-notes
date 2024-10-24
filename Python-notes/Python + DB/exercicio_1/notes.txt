@@ -1,0 +1,15 @@
+1. Exercício: Registro de Tarefas (To-Do List)
+Descrição: Crie um sistema simples de gerenciamento de tarefas, onde você pode adicionar, visualizar, editar e 
+excluir tarefas.
+
+Funcionalidades:
+Adicionar nova tarefa (com título e descrição).
+Marcar uma tarefa como concluída.
+Visualizar todas as tarefas (com um filtro para concluídas e pendentes).
+Editar o título ou descrição de uma tarefa.
+Excluir uma tarefa.
+
+Banco de Dados: Use SQLite (um banco de dados leve, perfeito para esse tipo de exercício) para armazenar as tarefas. 
+A tabela pode ter campos como id, title, description, status (pendente ou concluída).
+
+Objetivo: Praticar operações CRUD (Create, Read, Update, Delete) com Python e SQL.
