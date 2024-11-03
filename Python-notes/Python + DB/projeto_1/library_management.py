@@ -187,3 +187,6 @@ def menu():
 
 if __name__ == '__main__':
     menu()
+
+
+# Falta tratar os erros
